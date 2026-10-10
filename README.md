@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://github.com/wildassoler/wildassoler/blob/main/programando.gif?raw=true" alt="Ilustração de um programador" width="350px" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Ilustração de um programador" width="350px" />
 </p>
 
 # Hi there, I'm William 👋
@@ -43,8 +43,13 @@ Backend Development • REST APIs • Software Architecture • Clean Code • D
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildassoler&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="35%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=wildassoler&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildassoler&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildassoler&layout=donut&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&custom_title=Top%20Languages%20by%20Commit" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wildassoler&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="32%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wildassoler&theme=dracula" width="100%" />
 </p>
 
 ## 📫 Get in Touch
