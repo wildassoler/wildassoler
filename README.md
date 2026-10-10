@@ -1,18 +1,18 @@
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Ilustração de um programador" width="350px" />
-</p>
-
 # Hi there, I'm William 👋
 
 I'm a Software Engineering student at the University of Greater Manchester, with a passion for building practical software solutions and continuously improving my development skills.
 
 ## 👨‍💻 About Me
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Ilustração de um programador" width="300" />
+
 - 🎓 Currently studying **Software Engineering** at the University of Greater Manchester
 - 💻 Interested in Backend Development, Mobile Applications and Software Architecture
 - 🌱 Currently learning **Java, Kotlin, C#, Python** and Software Engineering best practices
 - 🤝 Open to collaborating on open-source and personal projects
 - 📍 Based in Manchester, United Kingdom
+
+<br><br>
 
 ## 🛠️ Technologies
 
