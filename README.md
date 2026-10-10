@@ -1,5 +1,4 @@
 <p align="right">
-  <!-- Lembre-se de fazer o upload do ficheiro programando.gif para o seu repositório -->
   <img src="https://github.com/wildassoler/wildassoler/blob/main/programando.gif?raw=true" alt="Ilustração de um programador" width="350px" />
 </p>
 
